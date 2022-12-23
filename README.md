@@ -3,7 +3,7 @@
 - 🌱 I’m currently Full Stack Developer Trainee.
 - 💞️ I have the knowledge of Java ,Html5 , css3 , Javascript , React,Bootstrap.
 
-- Tech stack 	https://camo.githubusercontent.com/8e4a668bb3e69b0…76f3d7265616374266c6f676f436f6c6f723d363144424642
+<!-- - Tech stack 	https://camo.githubusercontent.com/8e4a668bb3e69b0…76f3d7265616374266c6f676f436f6c6f723d363144424642 -->
 <!---
 jyotimishra05/jyotimishra05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
