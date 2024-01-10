@@ -1,19 +1,19 @@
 ## 🚀 Passionate Full Stack Developer | Frontend Specialist 🌐
 
-# Welcome to my Github profile! I'm Jyoti Mishra, and I'm on a mission to elevate and expand my expertise in Full Stack technologies, with a strong emphasis on the frontend side.
+Welcome to my Github profile! I'm Jyoti Mishra, and I'm on a mission to elevate and expand my expertise in Full Stack technologies, with a strong emphasis on the frontend side.
 
 ## 🌟 About Me:
 
-# 💡 Quick and Adaptive Learner: I thrive on learning and staying ahead in the ever-evolving landscape of technology.
-# 🎯 Goal-Oriented: Focused on mastering the latest tech trends to deliver impactful solutions.
-# 🤝 Challenging Environments: I enjoy being challenged and engaging with projects that push me beyond my comfort zone.
-# ⚡ Fast-Paced Enthusiast: Thriving in dynamic environments where speed meets quality.
+💡 Quick and Adaptive Learner: I thrive on learning and staying ahead in the ever-evolving landscape of technology.
+🎯 Goal-Oriented: Focused on mastering the latest tech trends to deliver impactful solutions.
+🤝 Challenging Environments: I enjoy being challenged and engaging with projects that push me beyond my comfort zone.
+⚡ Fast-Paced Enthusiast: Thriving in dynamic environments where speed meets quality.
 
 ## 🛠️ Skills Highlights:
 
-# Frontend Technologies: HTML, CSS, JavaScript, React
-# Full Stack Mastery: NodeJS, Bootstrap, Express JS, MongoDB
-# Toolbox: Git, Vercel, Netlify, VS Code
+Frontend Technologies: HTML, CSS, JavaScript, React
+Full Stack Mastery: NodeJS, Bootstrap, Express JS, MongoDB
+Toolbox: Git, Vercel, Netlify, VS Code
 
 ## 🌐 Professional Mission:
 
