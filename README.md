@@ -5,8 +5,11 @@ Welcome to my Github profile! I'm Jyoti Mishra, and I'm on a mission to elevate 
 ## 🌟 About Me:
 
 💡 Quick and Adaptive Learner: I thrive on learning and staying ahead in the ever-evolving landscape of technology.
+
 🎯 Goal-Oriented: Focused on mastering the latest tech trends to deliver impactful solutions.
+
 🤝 Challenging Environments: I enjoy being challenged and engaging with projects that push me beyond my comfort zone.
+
 ⚡ Fast-Paced Enthusiast: Thriving in dynamic environments where speed meets quality.
 
 ## 🛠️ Skills Highlights:
