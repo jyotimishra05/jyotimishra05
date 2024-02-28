@@ -1,4 +1,4 @@
-## 🚀 Passionate Full Stack Developer | Frontend Specialist 🌐
+## 🚀 Passionate Full Stack Developer  🌐
 
 Welcome to my Github profile! I'm Jyoti Mishra, and I'm on a mission to elevate and expand my expertise in Full Stack technologies, with a strong emphasis on the frontend side.
 
