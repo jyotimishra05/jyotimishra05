@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotimishra05&label=Profile%20views&color=0e75b6&style=flat" alt="jyotimishra05" /> </p>
 - Hi there 👋,I am currently open to collaboration on frontend projects.With a strong passion for developing intuitive and dynamic user interfaces, I am always eager to work with like-minded professionals. If you're looking for a skilled Frontend Developer to join your team or collaborate on an exciting project, feel free to reach out!
+
 - 🔭 I’m currently working on enhancing my frontend skills along with backend tech stack.
+  
 - 💼 Looking for better opportunities as a Frontend Developer.
+  
 - 👨‍💻 All of my projects are available at [https://my-portfolio-q6na.vercel.app/](https://my-portfolio-q6na.vercel.app/)
+  
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Java**
+  
 - 📫 How to reach me **jyotihr28@gmail.com**
+  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wmf9wbpvoSMSdmSfL3-n8CrUYiKwV1uN/view?usp=drive_link](https://drive.google.com/file/d/1Wmf9wbpvoSMSdmSfL3-n8CrUYiKwV1uN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
