@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyoti Mishra</h1>
-<h3 align="center">An experienced Frontend Developer</h3>
+<h3 align="center">An experienced Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotimishra05&label=Profile%20views&color=0e75b6&style=flat" alt="jyotimishra05" /> </p>
 - Hi there 👋,I am currently open to collaboration on frontend projects.With a strong passion for developing intuitive and dynamic user interfaces, I am always eager to work with like-minded professionals. If you're looking for a skilled Frontend Developer to join your team or collaborate on an exciting project, feel free to reach out!
