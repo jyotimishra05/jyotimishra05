@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on enhancing my frontend skills along with backend tech stack.
   
-- 💼 Looking for better opportunities as a Frontend Developer.
+- 💼 Looking for better opportunities as a Java Full stack Developer.
   
 - 👨‍💻 All of my projects are available at [https://my-portfolio-q6na.vercel.app/](https://my-portfolio-q6na.vercel.app/)
   
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Java**
+- 💬 Ask me about ** Java , MySql , JDBC , Servlet , Microservices , Kafka , Hbernate ,HTML,CSS,JavaScript,React**
   
 - 📫 How to reach me **jyotihr28@gmail.com**
   
