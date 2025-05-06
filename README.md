@@ -8,13 +8,9 @@
   
 - 💼 Looking for better opportunities as a Java Full stack Developer.
   
-- 👨‍💻 All of my projects are available at [https://my-portfolio-q6na.vercel.app/](https://my-portfolio-q6na.vercel.app/)
-  
 - 💬 Ask me about ** Java , MySql , JDBC , Servlet , Microservices , Kafka , Hbernate ,HTML,CSS,JavaScript,React**
   
 - 📫 How to reach me **jyotihr28@gmail.com**
-  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wmf9wbpvoSMSdmSfL3-n8CrUYiKwV1uN/view?usp=drive_link](https://drive.google.com/file/d/1Wmf9wbpvoSMSdmSfL3-n8CrUYiKwV1uN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
